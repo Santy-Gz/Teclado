@@ -19,6 +19,7 @@
 
 ## Followme :
 [![Github](https://img.shields.io/badge/Github-Santy--Gz-aqua?style=for-the-badge&logo=github)](https://github.com/Santy-Gz)
+[![YouTube](https://img.shields.io/badge/YouTube-Santy--Gz-greeen?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCekjx11BY2uAu57k61C2WuA)
 
 #### Nota
 
